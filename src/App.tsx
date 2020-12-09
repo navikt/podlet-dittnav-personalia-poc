@@ -6,7 +6,7 @@ import { useQuery } from "react-query";
 
 const fetchNavn = async () => {
   const url = `https://www.dev.nav.no/person/dittnav-api/personalia/navn`;
-  const response = await fetch(url);
+  const response = await fetch(url, { method: "GET", credentials: "include" });
 
   return response.json();
 };
