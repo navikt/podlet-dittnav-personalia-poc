@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="podlet-dittnav">
       <Panel border>
-        <Systemtittel>{data}</Systemtittel>
+        <Systemtittel>Hei, {data}</Systemtittel>
       </Panel>
     </div>
   );
