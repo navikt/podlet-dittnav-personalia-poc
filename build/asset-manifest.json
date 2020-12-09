@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/person/podlet-dittnav/static/css/main.f8dc6dc3.chunk.css",
+    "main.js": "/person/podlet-dittnav/static/js/main.ca5b8ec1.chunk.js",
+    "main.js.map": "/person/podlet-dittnav/static/js/main.ca5b8ec1.chunk.js.map",
+    "runtime-main.js": "/person/podlet-dittnav/static/js/runtime-main.c98ffe76.js",
+    "runtime-main.js.map": "/person/podlet-dittnav/static/js/runtime-main.c98ffe76.js.map",
+    "static/css/2.bd145135.chunk.css": "/person/podlet-dittnav/static/css/2.bd145135.chunk.css",
+    "static/js/2.518b702c.chunk.js": "/person/podlet-dittnav/static/js/2.518b702c.chunk.js",
+    "static/js/2.518b702c.chunk.js.map": "/person/podlet-dittnav/static/js/2.518b702c.chunk.js.map",
+    "static/js/3.dcaab86c.chunk.js": "/person/podlet-dittnav/static/js/3.dcaab86c.chunk.js",
+    "static/js/3.dcaab86c.chunk.js.map": "/person/podlet-dittnav/static/js/3.dcaab86c.chunk.js.map",
+    "index.html": "/person/podlet-dittnav/index.html",
+    "static/css/2.bd145135.chunk.css.map": "/person/podlet-dittnav/static/css/2.bd145135.chunk.css.map",
+    "static/css/main.f8dc6dc3.chunk.css.map": "/person/podlet-dittnav/static/css/main.f8dc6dc3.chunk.css.map",
+    "static/js/2.518b702c.chunk.js.LICENSE.txt": "/person/podlet-dittnav/static/js/2.518b702c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98ffe76.js",
+    "static/css/2.bd145135.chunk.css",
+    "static/js/2.518b702c.chunk.js",
+    "static/css/main.f8dc6dc3.chunk.css",
+    "static/js/main.ca5b8ec1.chunk.js"
+  ]
+}

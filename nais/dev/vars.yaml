@@ -1,0 +1,7 @@
+app: podlet-dittnav
+namespace: personbruker
+team: personbruker
+base_path: "/person/podlet-dittnav"
+ingressess: |
+  ingresses:
+    - https://person.dev.nav.no/person/podlet-dittnav
