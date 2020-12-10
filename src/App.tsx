@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Panel from "nav-frontend-paneler";
-import { Systemtittel } from "nav-frontend-typografi";
+import { Sidetittel } from "nav-frontend-typografi";
 import { useQuery } from "react-query";
 
 const fetchNavn = async () => {
@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="podlet-dittnav">
       <Panel border>
-        <Systemtittel>Hei, {data!.navn}</Systemtittel>
+        <Sidetittel>Hei, {data!.navn}</Sidetittel>
       </Panel>
     </div>
   );
