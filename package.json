@@ -1,5 +1,5 @@
 {
-  "name": "podlet-dittnav",
+  "name": "podlet-dittnav-personalia",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -73,5 +73,5 @@
   "lint-staged": {
     "*.{js,jsx,json,md,ts,tsx}": "prettier --write"
   },
-  "homepage": "/person/podlet-dittnav"
+  "homepage": "/person/podlet-dittnav-personalia"
 }

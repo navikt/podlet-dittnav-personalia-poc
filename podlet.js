@@ -2,12 +2,12 @@ const express = require("express");
 const Podlet = require("@podium/podlet");
 const fs = require("fs");
 
-const basePath = process.env.BASE_PATH || "/person/podlet-dittnav";
+const basePath = process.env.BASE_PATH || "/person/podlet-dittnav-personalia";
 const port = process.env.PORT || 7300;
 const podletVersion = process.env.VERSION_HASH || `${new Date().getTime()}`;
 const isDevelopmentEnv = true;
 
-const podletName = "podlet-dittnav";
+const podletName = "podlet-dittnav-personalia";
 
 let rawdata = fs.readFileSync("build/asset-manifest.json");
 let assets = JSON.parse(rawdata);

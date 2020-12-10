@@ -8,7 +8,7 @@ on:
 env:
   IMAGE: docker.pkg.github.com/${{ github.repository }}/podlet-dittnav:${{ github.sha }}
   LATEST_IMAGE: docker.pkg.github.com/${{ github.repository }}/podlet-dittnav:latest
-  BASE_PATH: /person/podlet-dittnav
+  BASE_PATH: /person/podlet-dittnav-personalia
   IMAGE_CACHE_RUNTIME: docker.pkg.github.com/${{ github.repository }}/podlet-dittnav-build-cache-runtime
   IMAGE_CACHE_BUILDER: docker.pkg.github.com/${{ github.repository }}/podlet-dittnav-build-cache-builder
 
