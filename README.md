@@ -1,4 +1,4 @@
-# podlet-veientilarbeid
+# podlet-dittnav-personalia
 
 Podium-podlet for VeienTilArbeid-appen
 
