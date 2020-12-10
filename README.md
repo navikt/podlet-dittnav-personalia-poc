@@ -1,6 +1,6 @@
 # podlet-dittnav-personalia
 
-Podium-podlet for VeienTilArbeid-appen
+Podium-podlet for dittnav
 
 ## Lokal kjøring
 
