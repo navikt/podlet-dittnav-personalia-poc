@@ -20,9 +20,7 @@ function App() {
 
   return (
     <div className="podlet-dittnav-personalia">
-      <Panel border>
-        <Sidetittel>Hei, {data!.navn}</Sidetittel>
-      </Panel>
+      <Sidetittel>Hei, {data!.navn}</Sidetittel>
     </div>
   );
 }
