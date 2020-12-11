@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import Panel from "nav-frontend-paneler";
 import { Sidetittel } from "nav-frontend-typografi";
 import { useQuery } from "react-query";
 
